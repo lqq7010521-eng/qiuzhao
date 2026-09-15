@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历skill"
+  short_description: "对照一个或多个JD排序匹配度，并输出最小必要的简历修改"
+  default_prompt: "使用 $jianli-skill 根据我的现有简历和一个或多个JD，进行匹配度排序或只列出必要的简历修改。"
